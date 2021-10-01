@@ -1,5 +1,5 @@
 name: marcelUbuntuGit
-version: 0.1
+version: 0.2
 formatVersion: 1
 inputs: {}
 resources:
@@ -12,4 +12,4 @@ resources:
     properties:
       image: MarcelUbuntuDesktop
       flavor: marcel-small
-      name: marcelvRATestMachine
+      name: marcelGitTestMachine
