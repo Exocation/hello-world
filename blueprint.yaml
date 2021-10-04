@@ -8,5 +8,5 @@ resources:
         - 0
         - 0
     properties:
-      image: MarcelUbuntuDesktop
-      flavor: marcel-small
+      image: MarcelWinDesktop
+      flavor: marcel-medium
