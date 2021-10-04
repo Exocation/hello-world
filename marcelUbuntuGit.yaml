@@ -10,4 +10,4 @@ resources:
     properties:
       image: MarcelUbuntuDesktop
       flavor: marcel-small
-      name: marcelvRATestMachine
+      name: marcelvRATestMachinechangedfromGit
